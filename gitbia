@@ -1,5 +1,5 @@
 <?php
 
-$nome = bia;
+$nome = "bia";
 echo $nome;
 
